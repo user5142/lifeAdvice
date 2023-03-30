@@ -13,7 +13,7 @@ const adlibs = {
 // Store the 'life advice' messages in an array
 let lifeAdvice = []
 
-// Iterate over the adlibs
+// Iterate over the prompts
 for (arr in adlibs) {
     let arrIdx = generateRandomNumber(adlibs[arr].length)
 
