@@ -10,4 +10,4 @@ The program consists of four parts:
 - a for loop
 - a formatting function
 
-The random number generating function generates a random number based on the length of the nested adlib arrays. The for loop iterates over the adlib arrays and chooses a random adlib within the array via the random number function, then concatenates the random adlib with a predetermined prompt and pushes the full statement into a new array. The three statements in the new array are then formatted and printed to the console.  
+The random number function generates a random number based on the length of the nested adlib arrays. The for loop iterates over the adlib arrays and chooses a random adlib within the array via the random number function, then concatenates the random adlib with a predetermined prompt and pushes the full statement to a new array. The three statements in the new array are then formatted and printed to the console.  
