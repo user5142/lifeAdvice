@@ -2,7 +2,7 @@
 
 lifeAdvice is a program I wrote as part of Codecademy's Full Stack Engineer Path. 
 
-The goal of the project was to use JavaScript to create a program that generates random messages each time it is run. 
+The goal of the project was to create a JavaScript program that generates random messages each time it is run. 
 
 The program consists of four parts:
 - a random number generating function
